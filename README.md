@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @ryan-danielson
-- 👀 I’m interested in making games, websites, tools, etc.
-- 🌱 I’m currently learning C#/.NET, C++, and Norwegian.
+- Hi, I’m @ryan-danielson.
+- This is where I hoard some of my projects. Get in touch if you'd like to collaborate.
 - 📫 danielson.ryan@protonmail.ch
 
 <!---
